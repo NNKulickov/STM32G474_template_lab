@@ -1,0 +1,16 @@
+{
+    //"cortex-debug.gdbPath": "C:\\GNU Arm Embedded Toolchain\\10_3\\bin\\arm-none-eabi-gdb",
+    "cmake.configureOnOpen": true,
+    "files.associations": {
+        "rcc.h": "c",
+        "stm32g474xx.h": "c",
+        "core_cm4.h": "c",
+        "system_stm32g4xx.h": "c",
+        "stm32g4xx.h": "c",
+        "stm32g483xx.h": "c",
+        "cmsis_compiler.h": "c",
+        "cmsis_gcc.h": "c",
+        "tim.h": "c",
+        "main.h": "c"
+    }
+}

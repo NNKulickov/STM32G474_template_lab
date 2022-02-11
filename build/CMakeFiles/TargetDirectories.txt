@@ -1,0 +1,3 @@
+C:/Users/ptaye/OneDrive/Desktop/Template_lab/Template_lab/build/CMakeFiles/STM32G474_template_lab.elf.dir
+C:/Users/ptaye/OneDrive/Desktop/Template_lab/Template_lab/build/CMakeFiles/edit_cache.dir
+C:/Users/ptaye/OneDrive/Desktop/Template_lab/Template_lab/build/CMakeFiles/rebuild_cache.dir

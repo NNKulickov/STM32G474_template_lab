@@ -1,0 +1,26 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Cortex Debug",
+            "cwd": "${workspaceRoot}",
+            "executable": "./build/STM32G474_template_lab.elf",
+            "request": "launch",
+            "type": "cortex-debug",
+            "serverpath": "C:/openocd-pack/bin/openocd.exe",
+            "servertype": "openocd",
+            "armToolchainPath": "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/",
+            "device": "STM32G474RE",
+            "interface": "swd",
+            "runToEntryPoint": "main",
+            "showDevDebugOutput": "both",
+            "configFiles": [
+                "interface/stlink.cfg",
+                "target/stm32g4x.cfg"
+            ],
+            "svdFile": "${workspaceRoot}/device/STM32G474xx.svd",
+        }
+    ]
+}
